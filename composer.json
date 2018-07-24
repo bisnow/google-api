@@ -1,5 +1,5 @@
 {
-    "name": "google/google-api",
+    "name": "bisnow/google-api",
     "type": "library",
     "description": "PHP Client for Google APIs",
     "keywords": ["php", "google", "api", "client", "analytics", "plus", "adwords", "adsense", "compute", "chrome", "youtube", "drive", "search"],
